@@ -10,5 +10,6 @@
 * Distortion coefficient (k1, k2, p1, p2, k3, ...) = [ 0.13647651  0.00318341  0.00799494  0.00173716 -1.33621083]
 
 ## Distortion Correction Result
-
-![Distortion Corrected Image](result.png)
+![Distortion Visualization Image](visualization_result.png)
+![Original Image](original.png)
+![Distortion Corrected Image](corrected.png)
